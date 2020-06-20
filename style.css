@@ -55,14 +55,29 @@ h1 {
     margin: 10px 0;
     text-align: center;
 }
+h2 {
+    margin: 0;
+}
 main {
-    margin-left: 300px;
-    padding: 0 25px;
+    margin-left: 325px;
+    margin-right: 15px;
+    margin-top: 20px;
 }
 section li {
     margin:16px 0;
+    margin-left: 25px;
 }
 section p {
     padding: 0 10px;
 }
 
+code {
+    display: block;
+    white-space: pre;
+    background-color: #f7f7f7;
+    line-height: 2;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    margin-left: 25px;
+}
